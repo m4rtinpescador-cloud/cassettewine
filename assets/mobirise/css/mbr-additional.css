@@ -1340,7 +1340,7 @@ a {
   }
 }
 .cid-vfyaz016Qo {
-  background-color: #edefeb;
+  background-color: #ffffff;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -1504,6 +1504,26 @@ a {
 .cid-vg4C4VsXJa .mbr-section-btn {
   color: #000000;
 }
+.cid-vvmHohwo3w {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #edefeb;
+}
+.cid-vvmHohwo3w .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vvmHohwo3w .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vvmHohwo3w .row {
+  flex-direction: row-reverse;
+}
 .cid-vg4HjPNAws {
   padding-top: 2rem;
   padding-bottom: 4rem;
@@ -1527,9 +1547,6 @@ a {
   }
 }
 .cid-vg4HjPNAws .row {
-  flex-direction: row-reverse;
-}
-.cid-vg4HjPNAws .row {
   align-items: center;
 }
 @media (max-width: 991px) {
@@ -1549,6 +1566,26 @@ a {
 .cid-vg4HjPNAws .mbr-section-btn {
   color: #000000;
 }
+.cid-vvmIh954Jt {
+  padding-top: 0rem;
+  padding-bottom: 2rem;
+  background-color: #edefeb;
+}
+.cid-vvmIh954Jt .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vvmIh954Jt .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vvmIh954Jt .row {
+  flex-direction: row-reverse;
+}
 .cid-vfY5Qz5x9h {
   padding-top: 1rem;
   padding-bottom: 0rem;
@@ -1557,9 +1594,6 @@ a {
 .cid-vfY5Qz5x9h img,
 .cid-vfY5Qz5x9h .item-img {
   width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
 }
 .cid-vfY5Qz5x9h .item:focus,
 .cid-vfY5Qz5x9h span:focus {
@@ -1596,7 +1630,7 @@ a {
 }
 .cid-vfY5Qz5x9h .item-wrapper {
   position: relative;
-  background: #ffffff;
+  background: #ffa25b;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1892,7 +1926,7 @@ a {
 }
 .cid-vfQ0f0BdYq .mbr-text,
 .cid-vfQ0f0BdYq .mbr-section-btn {
-  text-align: center;
+  text-align: justify;
 }
 .cid-vfZ33bPv0V {
   padding-top: 6rem;
@@ -2022,7 +2056,7 @@ a {
 .cid-vfXFKsqBNE {
   padding-top: 4rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/mbr-1920x1056.jpg");
+  background-color: #000000;
 }
 .cid-vfXFKsqBNE .mbr-fallback-image.disabled {
   display: none;
